@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aileenpeeka
-- 👀 I’m interested in web3, deep learning and building projects.
-- 🌱 I’m currently learning solidity and python.
+- 👀 I’m interested in ai, web3 and design.
+- 🌱 I’m currently building agentic systems.
 - 📫 Reach me on peekaaileen@gmail.com
 - 😄 Pronouns: she/her
 
