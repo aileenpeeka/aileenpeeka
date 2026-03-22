@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @aileenpeeka
-- 👀 I’m interested in ai and design.
-- 🌱 I’m currently building agentic systems.
-- 📫 Reach me on peekaaileen@gmail.com
-- 😄 Pronouns: she/her
+- 👋🏽 Hi, I’m @aileenpeeka
+- 📚 Incoming MS @ NYU Tandon (Emerging Tech, ML & AI) | B.Tech @  VIT Vellore, India (Computer Science) 
+- 📝 I’m interested in ai and design.
+- 🛠️ I’m currently building agentic systems.
+- 📲 Reach me on peekaaileen@gmail.com
+- 🙋🏻‍♀️ Pronouns: she/her
 
 <!---
 aileenpeeka/aileenpeeka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
