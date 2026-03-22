@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aileenpeeka
-- 👀 I’m interested in ai, web3 and design.
+- 👀 I’m interested in ai and design.
 - 🌱 I’m currently building agentic systems.
 - 📫 Reach me on peekaaileen@gmail.com
 - 😄 Pronouns: she/her
