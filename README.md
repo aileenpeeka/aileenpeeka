@@ -1,5 +1,5 @@
 - 👋🏽 Hi, I’m @aileenpeeka
-- 📚 Incoming MS @ NYU Tandon (Emerging Tech - ML & AI) | B.Tech @  VIT Vellore, India (Computer Science) 
+- 📚 Incoming MS CS @ NYU Courant | B.Tech @  VIT Vellore, India (Computer Science) 
 - 📝 I’m interested in ai and design.
 - 🛠️ I’m currently building agentic systems.
 - 📲 Reach me on peekaaileen@gmail.com
